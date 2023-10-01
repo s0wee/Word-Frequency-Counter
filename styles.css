@@ -1,7 +1,7 @@
 /* Style the body and center the form */
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
-    background-color: #878585;
+    background-color: #444444;
     text-align: center;
     padding: 20px;
 }
@@ -9,7 +9,7 @@ body {
 /* Style the form container */
 form {
     background-color: #fff;
-    border: 1px solid #ccc;
+    border: 1px solid #BCBCBC;
     padding: 12px;
     max-width: 650px;
     margin: 0 auto;
@@ -31,13 +31,13 @@ input[type="number"] {
     text-align: center;
     padding: 10px;
     margin-bottom: 15px;
-    border: 1px solid #ccc;
+    border: 1px solid #BCBCBC;
     border-radius: 10px;
 }
 
 /* Style the submit button */
 input[type="submit"] {
-    background-color: #449eff;
+    background-color: #FFD966;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -47,7 +47,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #03ff29;
+    background-color: #F1C232;
     border-radius: 10px;
     border: width 10px;
 }
