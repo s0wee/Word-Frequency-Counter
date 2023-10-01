@@ -9,7 +9,7 @@
 <body>
     <h1>Word Frequency Counter</h1>
     
-    <form action="process.php" method="post">
+    <form action="Process.php" method="post">
         <label for="text">Paste your text here:</label><br>
         <textarea id="text" name="text" rows="10" cols="50" required></textarea><br><br>
         
